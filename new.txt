@@ -2,3 +2,4 @@
 checking commmands
 checking difftool
 checking branching
+branches vs code
